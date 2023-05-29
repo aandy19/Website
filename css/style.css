@@ -1,0 +1,51 @@
+﻿body {
+    font-family: Arial;
+    background: url(https://img.freepik.com/vecteurs-libre/scene-paysage-forestier-au-coucher-du-soleil-nombreux-arbres-differents_1308-55844.jpg?w=826&t=st=1685016908~exp=1685017508~hmac=baf20302f73be42c9602b5bc1a5de35726118eb66032ae9e83093749f8f959df) no-repeat;
+    background-size:100%
+}
+
+#navigation {
+    text-align: center;
+    color: #ffffff;
+    height: 46px;
+    line-height: 46px;
+    margin-bottom: 22px;
+    background-color: #5c8538;
+}
+
+p{
+    color:#ffffff;
+    font-size:.9em;
+}
+#row{
+    width:700px;
+    clear:both;
+    margin:auto;
+    min-height:250px;
+}
+
+
+article {
+    width: 210px;
+    height: 75px;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid #808080;
+    border-radius: 100px;
+    background-color: #5c8538;
+    text-align: center;
+}
+
+a article{
+    text-decoration:none;
+}
+a article:hover{
+    background-color:#456f25;
+    transition:0,3s all;
+}
+
+header{
+    text-align: center;
+}
+
+

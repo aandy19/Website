@@ -1,0 +1,17 @@
+﻿body {
+    font-family: Arial;
+    background-color: #aeba41;
+    text-align:center;
+}
+
+article {
+    width: 280px;
+    height: 280px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid #808080;
+    border-radius: 100px;
+    background-color: #5c8538;
+    text-align: center;
+    margin:auto;
+}
+
