@@ -8,14 +8,5 @@ a {
 }
 
 footer  {
-    width:100px;
-    height:100px;
-    margin: 10px 10px 10px 10px;
-    border: 1px solid #808080;
-    border-radius: 100px;
-    background-color: #5c8538;
-    text-align: center;
-    margin: auto;
     text-align:center;
-    float:left;
 }

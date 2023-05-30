@@ -22,3 +22,8 @@ a article:hover {
     background-color: #456f25;
     transition: 0,3s all;
 }
+
+#first a article:hover {
+    background-color: #456f25;
+    transition: 0,3s all;
+}

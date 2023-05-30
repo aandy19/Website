@@ -1,19 +1,11 @@
 ﻿body {
-    font-family: Arial;
+    font-family:Arial;
     background-color: #aeba41;
 }
 a {
-    text-decoration: none;
-    color: #FFFFFF;
+    color: #ffffff;
+    text-decoration:none;
 }
 
-article {
-    width: 800px;
-    height: 500px;
-    margin: 10px 10px 10px 10px;
-    border: 1px solid #808080;
-    border-radius: 100px;
-    background-color: #5c8538;
-    text-align: center;
-    margin: auto;
-}
+
+

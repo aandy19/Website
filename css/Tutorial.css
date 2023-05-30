@@ -4,9 +4,10 @@
 }
 
 a {
-    text-decoration: none;
     color: #FFFFFF;
+    text-decoration:none;
 }
+
 
 article {
     width: 450px;
@@ -25,7 +26,7 @@ a article:hover {
 }
 
 .container{
-    width:550px;
-    height:300px;
+    width:700px;
+    height:450px;
     margin:auto;
 }

@@ -1,7 +1,7 @@
 ﻿body {
-    font-family: Arial;
     background: url(https://img.freepik.com/vecteurs-libre/scene-paysage-forestier-au-coucher-du-soleil-nombreux-arbres-differents_1308-55844.jpg?w=826&t=st=1685016908~exp=1685017508~hmac=baf20302f73be42c9602b5bc1a5de35726118eb66032ae9e83093749f8f959df) no-repeat;
-    background-size:100%
+    background-size:100%;
+    font-family:Arial;
 }
 
 #navigation {
@@ -44,7 +44,7 @@ a article:hover{
     transition:0,3s all;
 }
 
-header{
+header {
     text-align: center;
 }
 
