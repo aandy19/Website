@@ -112,7 +112,6 @@
     <Content Include="images\background other pages.png" />
     <Content Include="images\Background.png" />
     <Content Include="images\background_65.jpg" />
-    <Content Include="images\HANA.png" />
     <Content Include="images\image for levels.png" />
     <Content Include="images\image level2.png" />
     <Content Include="images\image level3.png" />
@@ -120,6 +119,9 @@
     <Content Include="images\JESSICA.png" />
     <Content Include="images\Knight_attack_03.png" />
     <Content Include="images\Knight_win_01.png" />
+    <Content Include="images\PHOTO HANA OFFICIELLE.png" />
+    <Content Include="images\PHOTO LEVEL 1.jpg" />
+    <Content Include="images\PHOTO LEVEL 5.jpg" />
     <Content Include="index.html" />
     <Content Include="Levels.html" />
     <Content Include="SeeMore.html" />
@@ -160,6 +162,8 @@
     <Content Include="docs\bos_18-04-2023.pdf" />
     <Content Include="docs\report_2_.pdf" />
     <Content Include="docs\First_report %281%29.pdf" />
+    <Content Include="docs\final bos.pdf" />
+    <Content Include="docs\dernier_rapport.pdf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -177,7 +181,9 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="game\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
